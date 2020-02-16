@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Lesson 9. Orientation</string>
+    <string name="menu_item_check_orient_act_main">Узнать ориентацию</string>
+</resources>
